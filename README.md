@@ -1,6 +1,7 @@
 <h1 align="center">  Projeto-relogio-python </h1>
 <h2> Projeto prático baseado no video, criando um relógio digital em python do canal Usando Python </h2>
 <link>link: https://www.youtube.com/watch?v=TknTtYa0yYI&list=PLGFzROSPU9oUESl0MosXC6VblJxMrwjOM&index=2</link>
+<h2>Tecnologias Usadas</h2>
 <ul> 
   <li>Python</li>
   <li>Bibioteca tkinter</li>
